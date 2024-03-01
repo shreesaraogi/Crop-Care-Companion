@@ -1,4 +1,4 @@
-#AgriSense: Precision Farming Companion
+# AgriSense: Precision Farming Companion
 
 •	To implement precision agriculture (A modern farming technique that uses research data of soil characteristics, soil types, and crop yield data collection and suggests the farmers the right crop based on their site-specific parameters to reduce the wrong choice on a crop and increase productivity).
 •	To implement automation of irrigation of crops through Arduino controlled IoT device.
